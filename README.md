@@ -12,3 +12,6 @@ Right click `Module/index.xxx` and select `Folderize / Unfolderize` to become `M
 # Reminder
 
 That's all for the documentation (I know this doc is bull shit). I build this extension just for convincing my productivity only.
+
+# Ready for use version
+https://marketplace.visualstudio.com/items?itemName=TIGODOnlineLimited.folderable
