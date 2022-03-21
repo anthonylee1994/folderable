@@ -1,3 +1,6 @@
+![folderable](https://user-images.githubusercontent.com/2138598/159218496-cc2a0080-90a3-4c9a-9927-78c9a11948fa.png)
+
+
 # Folderable
 
 A freaking simple VS Code extension for making your `Module.xxx` becomes `Module/index.xxx` or `Module/index.xxx` becomes `Module.xxx`.
