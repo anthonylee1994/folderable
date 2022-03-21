@@ -3,8 +3,8 @@
   "displayName": "Folderable",
   "repository": "git@github.com:anthonylee1994/folderable.git",
   "description": "Make your Module.xxx becomes Module/index.xxx or Module/index.xxx becomes Module.xxx",
-  "version": "0.1.2",
-  "icon": "https://user-images.githubusercontent.com/2138598/159218496-cc2a0080-90a3-4c9a-9927-78c9a11948fa.png",
+  "version": "0.1.3",
+  "icon": "images/folderable.png",
   "publisher": "TIGODOnlineLimited",
   "engines": {
     "vscode": "^1.65.0"
